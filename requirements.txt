@@ -1,7 +1,7 @@
 Django==4.2.7
 djangorestframework==3.14.0
 pillow==10.4.0
-psycopg2-binary==3.2.3  # For PostgreSQL
+psycopg2-binary==2.9.11  # For PostgreSQL
 celery==5.3.4
 redis==5.0.1  # For Celery broker
 django-crispy-forms==2.1  # For better forms
