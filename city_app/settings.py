@@ -38,9 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',  # For API
-    'complaints',      # New app
+    'complaint_app',   # New app
 ]
-
 
 
 MIDDLEWARE = [
